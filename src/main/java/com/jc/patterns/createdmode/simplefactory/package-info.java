@@ -9,4 +9,4 @@
  * @author jiancheng
  * @date 2019-6-3
  */
-package com.jc.patterns.simplefactory;
+package com.jc.patterns.createdmode.simplefactory;

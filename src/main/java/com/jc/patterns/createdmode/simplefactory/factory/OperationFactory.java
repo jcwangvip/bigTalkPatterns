@@ -1,7 +1,7 @@
-package com.jc.patterns.simplefactory.factory;
+package com.jc.patterns.createdmode.simplefactory.factory;
 
-import com.jc.patterns.simplefactory.vo.Operation;
-import com.jc.patterns.simplefactory.vo.OperationAdd;
+import com.jc.patterns.createdmode.simplefactory.vo.Operation;
+import com.jc.patterns.createdmode.simplefactory.vo.OperationAdd;
 
 /**
  * 操作工厂类
