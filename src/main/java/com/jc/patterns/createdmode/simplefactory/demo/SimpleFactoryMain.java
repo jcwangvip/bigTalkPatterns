@@ -1,7 +1,7 @@
-package com.jc.patterns.createdmode.simplefactory;
+package com.jc.patterns.createdmode.simplefactory.demo;
 
-import com.jc.patterns.createdmode.simplefactory.factory.OperationFactory;
-import com.jc.patterns.createdmode.simplefactory.vo.Operation;
+import com.jc.patterns.createdmode.simplefactory.demo.factory.OperationFactory;
+import com.jc.patterns.createdmode.simplefactory.demo.vo.Operation;
 
 import java.math.BigDecimal;
 

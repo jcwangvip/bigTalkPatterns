@@ -1,4 +1,4 @@
-package com.jc.patterns.createdmode.simplefactory.vo;
+package com.jc.patterns.createdmode.simplefactory.demo.vo;
 
 import java.math.BigDecimal;
 
